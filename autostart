@@ -1,0 +1,8 @@
+pgrep -x sxhkd > /dev/null || sxhkd &
+picom &
+feh --bg-fill /home/lain/Pictures/random/paper2.jpg &
+~/polybar-collection/launch.sh &
+xrandr --output HDMI1 --mode 1366x768 &
+xrdb -load ~/.config/.Xresources &
+xinput disable 'SynPS/2 Synaptics TouchPad' &
+
