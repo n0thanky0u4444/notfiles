@@ -3,7 +3,7 @@ super + Return
 	urxvt
 #Program launcher
 super + d
-	dmenu_run
+	urxvt -name menu -e $HOME/fzf-menu/fzf-menu.sh
 #Firefox
 super + f
 	firefox
