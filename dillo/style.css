@@ -1,0 +1,63 @@
+body {
+  background: white;
+  line-height: 1.5;
+  margin: 3em;
+  font-family: sans-serif;
+}
+.main {
+  margin: 2em auto;
+  width: 50em;
+}
+h1 {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em
+}
+h3 {
+  color: #56f;
+  background: #f0f0f0;
+  padding: 0.5em
+}
+
+
+
+ /* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+ background-color:#000;
+ color:#fff;
+
+}
+
+/* selected link */
+a:active {
+  color: #1e1e1e;
+} 
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+
+   text-align: center;
+
+}
+
+hr{
+    width: 50%;
+
+    border: 2px;
+    border-style: solid;
+    border-color: #000;
+
+    margin: 0em;
+}

@@ -1,0 +1,10 @@
+:s0: gemini
+s0 gemini://warmedal.se/~antenna/ gemini://warmedal.se/~antenna/
+s0 gemini://gemini.circumlunar.space/capcom/ gemini://gemini.circumlunar.space/capcom/
+s0 gemini://gemini.circumlunar.space/capcom/ gemini://gemini.circumlunar.space/capcom/
+s0 gemini://bbs.geminispace.org/ gemini://bbs.geminispace.org/
+s0 gemini://skyjake.fi/~Cosmos/ gemini://skyjake.fi/~Cosmos/
+:s1: web
+s1 http://frogfind.com/ http://frogfind.com/
+s1 https://n0thanky0u.neocities.org/ https://n0thanky0u.neocities.org/ 
+s1 https://denpa-chan.org/all.cgi denpa-chan
